@@ -37,8 +37,8 @@ python setup.py develop
 
 ## 目录介绍
 
-> ├── Anno_test  助教给的测试标注
-> ├── Image_test 助教给的测试图片
+> ├──Anno_test  助教给的测试标注
+> ├──Image_test 助教给的测试图片
 > ├── calculate_map_test.py  助教给的评估脚本
 > ├── core_coreless_test.txt 助教给的测试文件
 > ├── mmdetection

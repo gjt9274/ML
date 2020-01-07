@@ -1,0 +1,8 @@
+Anno_test/*.txt
+Image_test/*.jpg
+/mmdetection/data/*
+/mmdetection/work_dirs/*
+*.pth
+.git
+*.egg-info
+__pycache__
